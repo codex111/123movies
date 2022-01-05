@@ -12,11 +12,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #5badf0;
+  color: #fd83d5;
 }
 
 a:hover {
-  color: #0366d6;
+  color: #fd83d5;
 }
 
 /* markdown content styles */
@@ -279,19 +279,19 @@ nav.navigation a.button {
 
 /* index post list */
 #list-page {
-  max-width: 580px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 24px;
 }
 
 #list-page .item {
-  margin: 12px 0;
+  margin: 0;
 }
 
 #list-page .title {
   display: inline-block;
   color: #404040;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
   margin: 0;
   width: 80%;
@@ -350,7 +350,7 @@ nav.navigation a.button {
 
 /* single page */
 #single {
-  max-width: 680px;
+  max-width: 800px;
   margin: 60px auto 0 auto;
   padding: 0 64px;
 }
