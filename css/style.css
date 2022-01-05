@@ -320,7 +320,7 @@ nav.navigation a.button {
   margin-top: 12px;
   word-break: normal;
   overflow-wrap: anywhere;
-  margin-bottom: 36px;
+  margin-bottom: 1px;
 }
 
 #list-page .cover {
