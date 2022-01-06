@@ -544,9 +544,7 @@ nav.navigation a.button {
   padding-bottom: 56.25%;
 }
 .content iframe {
-  position: absolute;
-  top: 0;
-  left: 5%;
+
   width: 90%;
-  height: 100%;
+  min-height: 450px;
 }
