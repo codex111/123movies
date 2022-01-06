@@ -540,7 +540,8 @@ nav.navigation a.button {
   display:block;
   margin:0 auto;
   width: 100%;
-  max-width:1920px;
+  min-width:800px;
+  min-height:600px;
   padding-bottom: 56.25%;
 }
 .movie iframe {
